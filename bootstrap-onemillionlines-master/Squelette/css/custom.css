@@ -1,0 +1,22 @@
+/* Vos customisations des classes de Bootstrap */
+
+#home {
+    background-image: url(/images/hero-image.jpg);
+    }
+
+
+
+
+/* Responsive Styling */
+
+@media (max-width: 1999px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}

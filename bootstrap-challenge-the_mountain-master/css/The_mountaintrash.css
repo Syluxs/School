@@ -1,0 +1,63 @@
+#home{
+    background-image: url(/images/bg_header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+
+}
+
+#about{
+    background-image: url(/images/bg_nuage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.marg {
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.blocBleu {
+    height: 700px;
+    background: rgba(0, 174, 255, 0.5);
+    color: white;
+}
+
+.ligula {
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.tiBlock {
+    border: 1px solid white;
+    margin-top: 8%;
+    height: 200px;
+}
+
+.tiBlockT {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 22px;
+}
+
+.tiBlockC {
+    font-size: 40px;
+    text-align: center;
+
+}
+#history{
+    background-image: url(/images/bg_appareil_photo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+
+#contact{
+    background-image: url(/images/Capture\ d’écran\ du\ 2022-12-02\ 16-54-20.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
